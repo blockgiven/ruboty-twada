@@ -5,6 +5,7 @@ module Ruboty
         def to_s
           "https://raw.githubusercontent.com/blockgiven/ruboty-twada/master/twada_savanna_lion.png"
         end
+      end
     end
   end
 end
